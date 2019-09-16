@@ -1,2 +1,3 @@
-def addition
+first_number = 5
+
   
